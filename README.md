@@ -14,7 +14,9 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 ## Configuration
 1. Create a .env file in the backend directory.
 2. Inside the .env file, add the following lines and replace placeholders with your actual values:
-   PORT = 4000
+
+  PORT = 4000
+  
   NODE_ENV = development
   
   ### MongoDb
@@ -22,9 +24,11 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
   
   ### Token
   JWT_SECRET_KEY = your_jwt_secret_key
+  
   JWT_EXPIRE = 10d
   
   JWT_REFRESH_SECRET_KEY = your_jwt_refresh_secret_key
+  
   JWT_REFRESH_EXPIRE = 1d
   
   ### Cookie
