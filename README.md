@@ -15,7 +15,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 1. Create a .env file in the backend directory.
 2. Inside the .env file, add the following lines and replace placeholders with your actual values:
 
-  PORT = 4000
+  <br>PORT = 4000<br>
   
   NODE_ENV = development
   
