@@ -32,7 +32,8 @@ Configuration
   
   # Temp Token Expiry
   TEMP_TOKEN_EXPIRE = 36000000
-#Starting the Backend
+
+Starting the Backend
 To start the backend server, follow these steps:
 
 1. In your terminal, navigate to the backend directory.
