@@ -27,7 +27,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
   
   JWT_EXPIRE = 10d
   
-  JWT_REFRESH_SECRET_KEY = your_jwt_refresh_secret_key
+  JWT_REFRESH_SECRET_KEY = your_jwt_refresh_secret_key <br>
   
   JWT_REFRESH_EXPIRE = 1d
   
