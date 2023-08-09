@@ -390,9 +390,7 @@ const follow = async (req, res, next) => {
         if (req.savedImages && req.savedImages[0]) {
             user.profilePicture = req.savedImages[0]; 
         }
-        if(info.private){
           user.private = info.private;
-        }
 
         await user.save();
 
