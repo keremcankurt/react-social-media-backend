@@ -46,5 +46,3 @@ To start the backend server, follow these steps:
 
 This will start the backend server in development mode.
 
-Congratulations! You've successfully set up and started the backend for your project. 
-Feel free to customize the configuration and build upon this foundation to create your desired application.
