@@ -7,7 +7,7 @@ This guide will help you set up and start the backend for your project. The back
 Before you begin, make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from nodejs.org.
 
 ## Installation
-1. Open your terminal or command prompt.
+1. Open your terminal or command prompt
 2. Navigate to the backend directory of your project: cd path/to/your/backend
 3. Install the required dependencies by running: npm install
 
